@@ -1,0 +1,6 @@
+{
+    "sketch": "Blink.ino",
+    "port": "COM5",
+    "board": "ATTinyCore:avr:attinyx4",
+    "configuration": "LTO=enable,chip=84,clock=8internal,eesave=aenable,bod=disable,pinmapping=anew,millis=enabled,neopixelport=porta"
+}

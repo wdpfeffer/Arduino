@@ -1,0 +1,6 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "attiny:avr:ATtinyX5",
+    "configuration": "cpu=attiny85,clock=internal8",
+    "port": "COM5"
+}

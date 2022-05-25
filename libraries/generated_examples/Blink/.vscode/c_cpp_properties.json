@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "defines": [
+                "ARDUINO=10800"
+            ],
+            "includePath": [
+                "${workspaceRoot}",
+                "C:\\Users\\wdpfe\\AppData\\Local\\Arduino15\\packages\\ATTinyCore\\hardware\\avr\\1.3.3\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\**",
+                "C:\\Users\\wdpfe\\Documents\\Arduino\\hardware\\tools\\**",
+                "C:\\Users\\wdpfe\\Documents\\Arduino\\libraries\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
