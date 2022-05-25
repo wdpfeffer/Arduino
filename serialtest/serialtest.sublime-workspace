@@ -1,0 +1,458 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prob",
+				"probe2"
+			],
+			[
+				"pro",
+				"probe1"
+			],
+			[
+				"impor",
+				"__import__	__import__"
+			],
+			[
+				"s",
+				"serial"
+			],
+			[
+				"rmbio",
+				"RMBIO"
+			],
+			[
+				"Rmbio",
+				"RMBIO"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "String test;\n\nvoid setup() {                \n// Turn the Serial Protocol ON\n  Serial.begin(9600);\n  \n\n}\n\n\nvoid loop() {\n  \n Serial.write(\"http://www.homedepot.com/p/Alexandria-Moulding-5-8-in-x-3-4-in-x-96-in-Oak-Nose-Cove-Moulding-01670-40096/204757760\\498484654654646546465464441112\\n\");\n delay(1000);\n if(Serial.available()){\n 	Serial.readBytesUntil(character, buffer, buffer);\n 	// test=Serial.read();\n 	// Serial.write(test);\n }\n\n}\n",
+			"file": "serialtest.ino",
+			"file_size": 379,
+			"file_write_time": 130941817884547614,
+			"settings":
+			{
+				"buffer_size": 437,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "sn ar re",
+		"selected_items":
+		[
+			[
+				"sn ar re",
+				"Snippet: Arduino Serial.readBytesUntil()"
+			],
+			[
+				"sn ard ser rea	",
+				"Snippet: Arduino Serial.read()"
+			],
+			[
+				"sn ard fo",
+				"Snippet: Arduino for"
+			],
+			[
+				"sn ard str	",
+				"Snippet: Arduino Serial.readBytes()"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"sy c",
+				"Set Syntax: C"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"syn py",
+				"Set Syntax: Python3"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"ev up",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"ev sen",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"ev ne",
+				"Evernote: New empty note"
+			],
+			[
+				"ev op",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"evop",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"ev",
+				"Evernote: New empty note"
+			],
+			[
+				"ev send",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"ev se",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"ev n",
+				"Evernote: New empty note"
+			],
+			[
+				"ev o",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"ev new",
+				"Evernote: New empty note"
+			],
+			[
+				"ev sav",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"ev sd",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"ev s",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"ev sa",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"ev save",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"ever up",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"eve op",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"e",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"ever we",
+				"Evernote: View Note in Web App"
+			],
+			[
+				"ever op",
+				"Evernote: View Note in Web App"
+			],
+			[
+				"ever pr",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"ever 	",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"eve new",
+				"Evernote: Clip to Evernote as new note"
+			],
+			[
+				"eve pr",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"ev pr",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"ever new",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"ever vie",
+				"Evernote: View Note in Web App"
+			],
+			[
+				"ever ope",
+				"Evernote: View Note in Web App"
+			],
+			[
+				"	",
+				"Evernote: Clip to Evernote as new note"
+			],
+			[
+				"ever",
+				"Evernote: New empty note"
+			],
+			[
+				"ever upd",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"ever p",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"ever sen",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"everno 	",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"ever us",
+				"Evernote Settings: User"
+			],
+			[
+				"ever	",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/bpfeffer/Dropbox/arduino/serialtest"
+	],
+	"file_history":
+	[
+		"/C/Users/bpfeffer/Dropbox/arduino/serialtest/serialtest.ino",
+		"/C/Users/William/Dropbox/arduino/TempProbewLCDMulti/TempProbewLCDMulti.ino",
+		"/C/Users/bpfeffer/Dropbox/scripts/SerialReadtoTxt.py",
+		"/C/Users/bpfeffer/Dropbox/rmbio/RMBIO Journal.mdown",
+		"/C/Users/William/Downloads/nodemcu-firmware-master/nodemcu-firmware-master/README.md",
+		"/C/Users/bpfeffer/Downloads/init.lua",
+		"/C/Users/bpfeffer/Downloads/readdht22.lua",
+		"/C/Users/bpfeffer/Downloads/dht22.lua",
+		"/C/Users/bpfeffer/Downloads/datatemphumi.txt",
+		"/C/Users/bpfeffer/Downloads/temphumi.txt",
+		"/C/Users/bpfeffer/Downloads/readdht22_test.lua",
+		"/C/Users/bpfeffer/Downloads/dht22.txt",
+		"/C/Users/bpfeffer/Downloads/Sublime Text Build 3083/Data/Packages/User/Evernote.sublime-settings"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"temp",
+			"outsideThermometer",
+			"insideThermometer",
+			"//"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "serialtest.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Stino/Arduino.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.build|C:\\Users\\bpfeffer\\Dropbox\\arduino\\serialtest|1449707885.150735":
+	{
+		"height": 160.0
+	},
+	"output.build|C:\\Users\\bpfeffer\\Dropbox\\arduino\\serialtest|1449708188.553301":
+	{
+		"height": 160.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.serialtest":
+	{
+		"height": 160.0
+	},
+	"output.stino_log":
+	{
+		"height": 160.0
+	},
+	"pinned_build_system": "",
+	"project": "serialtest.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
